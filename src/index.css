@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins;
+}
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  background-color: rgb(126, 154, 210);
+  background-image: url("./assets/beautiful-natural-clouds-sky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
