@@ -13,3 +13,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.copyright {
+  place-self: center;
+}
