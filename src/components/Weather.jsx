@@ -77,7 +77,7 @@ const Weather = () => {
       let warningMessage = "";
       if (uvIndex < 3) {
         warningMessage =
-          "Low UV index. Safe to be outdoors without protection.";
+          "Low UV index. Safe to be outdoors without sun protection.";
       } else if (uvIndex < 6) {
         warningMessage = "Moderate UV index. Consider wearing sunscreen.";
       } else if (uvIndex < 8) {
